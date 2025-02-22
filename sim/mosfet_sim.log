@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Florian\Documents\Cours\ENIB\S7\IPS\control-systems-for-heating-resistors\PCB\mosfet_sim.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Feb 27 22:38:56 2024
+Total elapsed time: 0.101 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 9265
+traniter = 9256
+tranpoints = 3269
+accept = 2638
+rejected = 631
+matrix size = 9
+fillins = 0
+solver = Normal
+Matrix Compiler1:      22 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
