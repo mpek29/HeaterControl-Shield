@@ -25,7 +25,7 @@
 ## 📐 PCB Preview
 | 📜 Schematic | 🖥️ PCB Layout | 🏗️ 3D View |
 |-----------|-----------|-----------|
-| <img src="assets/img/schematic.png" width="300" height="300"> | <img src="assets/img/pcb_layout.png" width="300" height="300"> | <img src="assets/img/3d.png" width="300" height="300"> |
+| <img src="assets/img/schematic.png"> | <img src="assets/img/pcb_layout.png"> | <img src="assets/img/3d.png"> |
 
 ## 🔗 Main Connections
 | Pin | Function |
